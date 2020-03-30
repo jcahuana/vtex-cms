@@ -1,5 +1,5 @@
 {
-  "name": "template",
+  "name": "vtex-cms",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcahuana/template.git"
+    "url": "git+https://github.com/jcahuana/vtex-cms.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jcahuana/template/issues"
+    "url": "https://github.com/jcahuana/vtex-cms/issues"
   },
-  "homepage": "https://github.com/jcahuana/template#readme"
+  "homepage": "https://github.com/jcahuana/vtex-cms#readme",
+  "dependencies": {
+    "vtex-cms-sauce": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/polyfill": "^7.8.7",
+    "@babel/register": "^7.9.0"
+  }
 }

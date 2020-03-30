@@ -31,6 +31,6 @@ Nota: Se debe tener acceso a la tienda VTEX con la que se interactuará.
   ```
   node src/index.js
   ```
-  Se mostrará el mensaje "Insert authentication cookie:". Esta cookie la encontrarás en el navegador que usar una vez hayas accedido a la administración de la tienda VTEX con tu usuario.
+  Se mostrará el mensaje "Insert authentication cookie:". Esta cookie la encontrarás en el navegador que hayas usado para acceder a la administración de la tienda VTEX con tu usuario.
 
 

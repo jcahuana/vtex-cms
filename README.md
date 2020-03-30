@@ -2,7 +2,7 @@
 
 Este proyecto esta basado en el repositorio vtex-cms-sauce de <a href="https://github.com/alvimm/vtex-cms-sauce" target="_blank">Mauricio Alvim</a>.
 
-Nota: Se debe tener acceso a la tienda VTEX con la que se inteactuará.
+Nota: Se debe tener acceso a la tienda VTEX con la que se interactuará.
 
 ## Requisitos de sistema
 
@@ -31,6 +31,6 @@ Nota: Se debe tener acceso a la tienda VTEX con la que se inteactuará.
   ```
   node src/index.js
   ```
-  Se mostrará el mensaje "Insert authentication cookie:", para obtener este valor debes loguearte en la tienda de VTEX y buscar en la consola de Google Chrome el valor de la cookie de tu usuario.
+  Se mostrará el mensaje "Insert authentication cookie:". Esta cookie la encontrarás en el navegador que usar una vez hayas accedido a la administración de la tienda VTEX con tu usuario.
 
 
